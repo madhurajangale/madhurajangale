@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Madhura Jangale</h1>
-<h3 align="center">Passionate Software Developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhurajangale&label=Profile%20views&color=0e75b6&style=flat" alt="madhurajangale" /> </p>
+
+
+- 📫 How to reach me **madhurajangle2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhurajangale&show_icons=true&locale=en" alt="madhurajangale" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhurajangale&" alt="madhurajangale" /></p>
+
